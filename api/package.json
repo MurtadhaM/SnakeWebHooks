@@ -1,0 +1,13 @@
+{
+  "name": "snake-func",
+  "version": "1.0.1",
+  "author": "Murtadha Marzouq",
+  "description": "This function will be triggered by a remote service",
+  "scripts": {
+    "start": "func start",
+    "build": "func pack",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
